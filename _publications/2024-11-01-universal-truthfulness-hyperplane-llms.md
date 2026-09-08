@@ -12,4 +12,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. "On the Universal Trut
 
 **Junteng Liu** (first author), Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
 
-Code repository: [Universal_Truthfulness_Hyperplane](https://github.com/Universal_Truthfulness_Hyperplane).
+Code repository: Universal_Truthfulness_Hyperplane.
