@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junteng Liu**, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests and Expertise
 
@@ -35,13 +35,13 @@ My primary research focus is natural language processing, combined with machine 
 **First-author papers**
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.**
-   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. [Code](https://github.com/Vicent0205).
+   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding.**
-   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. [Code](https://github.com/Vision4Chart).
+   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. Code repository: Vision4Chart.
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs.**
-   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. [Code](https://github.com/Universal_Truthfulness_Hyperplane).
+   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Code repository: Universal_Truthfulness_Hyperplane.
 
 **Co-authored papers**
 
@@ -60,7 +60,7 @@ My primary research focus is natural language processing, combined with machine 
 
 ## Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [https://github.com/Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email:** jliugi@connect.ust.hk
+- **GitHub:** https://github.com/Vicent0205
+- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- **X (Twitter):** @junteng88716710
