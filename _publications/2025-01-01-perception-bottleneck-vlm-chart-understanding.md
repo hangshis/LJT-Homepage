@@ -12,4 +12,4 @@ citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxia
 
 **Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025.
 
-Code repository: [Vision4Chart](https://github.com/Vision4Chart).
+Code repository: Vision4Chart.
